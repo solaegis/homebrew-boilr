@@ -1,9 +1,9 @@
 class Boilr < Formula
     desc "Boilerplate template manager that generates files or directories from template repositories"
     homepage "https://github.com/Ilyes512/boilr"
-    url "https://github.com/Ilyes512/boilr/releases/download/0.4.2/boilr-0.4.2-darwin_amd64.tgz"
-    version "0.4.2"
-    sha256 "946bc4a35401602fd098781088969230cc0e4546d8a18ede1fbcf7673a477598"
+    url "https://github.com/Ilyes512/boilr/releases/download/0.4.3/boilr-0.4.3-darwin_amd64.tgz"
+    version "0.4.3"
+    sha256 "1b255727add75c2b80d1a07b723e5cfbce5a86d902b7c7e60c76446ec21eabeb"
     head "https://github.com/Ilyes512/boilr.git"
 
     bottle :unneeded
