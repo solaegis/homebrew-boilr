@@ -2,5 +2,5 @@
 
 ```bash
 brew tap Ilyes512/boilr
-brew install boilr
+brew install Ilyes512/boilr/boilr
 ```
