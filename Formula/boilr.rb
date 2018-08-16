@@ -3,7 +3,7 @@ class Boilr < Formula
     homepage "https://github.com/Ilyes512/boilr"
     url "https://github.com/Ilyes512/boilr/releases/download/0.4.4/boilr-0.4.4-darwin_amd64.tgz"
     version "0.4.4"
-    sha256 "0b943271f689bf35626df6c9c1ad83fb4bdac85dec374964883ce1ec818da8c3"
+    sha256 "586dbf7cd20b33cf716dce5d5b74821f0fff1bd90d4a2a8ecd22dd43403cbbe2"
     head "https://github.com/Ilyes512/boilr.git"
 
     bottle :unneeded
