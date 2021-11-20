@@ -3,7 +3,7 @@ class Boilr < Formula
   homepage "https://github.com/solaegis/boilr"
   url "https://github.com/solaegis/boilr/releases/download/1.0.0/boilr-1.0.0-darwin_amd64.tgz"
   version "1.0.0"
-  sha256 "fae378c2945326a3e5741e1f8cf6c1940798304de509f08c4522157b8614bd6f"
+  sha256 "5eb8b0f70b4452f516ce7de0e186c96f7d8aa4ba751055f60b777248f3c90c34"
 
   def install
     bin.install "boilr"
